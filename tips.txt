@@ -1,0 +1,21 @@
+Tip: enable auto-reload under advanced options. You'll never have to think about reloading again!
+Tip: enable fast weapon switch under advanced options. You'll be able to switch between weapons quicker when you're in a pinch!
+Tip: enable hitsounds and damage numbers under advanced options. You'll be able to see how much damage you deal and determine how much health your enemies have left!
+Tip: enable raw input and disable mouse acceleration under mouse options. This can help improve your aim and make it more consistent!
+Tip: Always be moving. Standing still makes you vulnerable to Spies and Snipers. It also makes it harder for enemies to hit you!
+Tip: As Scout, use your speed and double-jump ability to your advantage when fighting enemies. A quick and unpredictable target is hard to hit!
+Tip: As Soldier, aim your rockets at the feet of your enemies. You're more likely to damage them from splash damage than from a direct hit!
+Tip: As Soldier, use the Escape Plan to move faster at low health. This can it easier to retreat!
+Tip: As Pyro, use your flamethrower's airblast ability to extinguish the flames on your teammates (right-click). This will stop them from burning and give you health!
+Tip: As Pyro, fire your flamethrower to check for enemy spies. If an invisible man or teammate goes ablaze, you've found one!
+Tip: As Demoman, place stickybombs around corners and on walls to surprise incoming enemies. Lure them in for an explosive surprise!
+Tip: As Heavy, share your Sandvich or Second Banana with teammates to give them health (right-click). Your team will thank you for it!
+Tip: As Heavy, regularly check behind you for enemy Spies. As the slowest character, you are susceptible to backstabs!
+Tip: As Engineer, put your Dispenser near the front-lines around health packs if possible. This will help your team replenish health and ammo from a nearby retreating point!
+Tip: As Engineer, use the Rescue Ranger to heal your buildings from a distance. You can also pick up buildings from any distance (right-click)!
+Tip: As Medic, heal your teammates at all times. This will help build your Ubercharge faster and keep your team alive!
+Tip: As Medic, keep a safe distance behind your teammate while healing them. This will keep you safe from stray bullets and splash damage!
+Tip: As Medic, retreat to safety when you're low on health. Being the most important player on the team, you're better off alive than dead!
+Tip: As Sniper, use Jarate on a group of enemies to make them take more damage!
+Tip: As Sniper, regularly check behind you for enemy Spies. Or, protect yourself from backstabs with the Razorback!
+Tip: As Spy, use your Cloak to get behind enemy lines. You're more likely to catch enemies off guard from behind rather than head-on!
